@@ -196,7 +196,7 @@ The agent is installed and initialized in [app.js](./app.js#L5).
 
 For the agent to report back to your snyk account on the vulnerabilities it detected it needs to know which project on Snyk to associate with the monitoring. Due to that, we need to provide it with the project id through an environment variable `SNYK_PROJECT_ID`
 
-To run the Node.js app with runtime monitoring:
+To run the Node.js app with runtime monitoring: hahahaha
 ```bash
 SNYK_PROJECT_ID=<PROJECT_ID> npm start
 ```
